@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1627903588796" clover="3.2.0">
-  <project timestamp="1627903588796" name="All files">
+<coverage generated="1628077987905" clover="3.2.0">
+  <project timestamp="1628077987905" name="All files">
     <metrics statements="37" coveredstatements="37" conditionals="30" coveredconditionals="29" methods="6" coveredmethods="6" elements="73" coveredelements="72" complexity="0" loc="37" ncloc="37" packages="1" files="1" classes="1"/>
     <file name="mazeRunner.js" path="/Users/floradavies/Projects/gameSeries/mazeRunner/src/mazeRunner.js">
       <metrics statements="37" coveredstatements="37" conditionals="30" coveredconditionals="29" methods="6" coveredmethods="6"/>
